@@ -1,0 +1,9 @@
+---
+title: "Tips & Tricks"
+format: html
+editor: visual
+---
+
+## What is this for?
+
+We want to put together a list of things that are useful to use and sometimes hard to remember. This way you can look here for them instead of digging around in old code.
